@@ -1,0 +1,17 @@
+/* .btn{
+    
+    margin-top: 1px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;
+    width: 100px;
+    height: 40px;
+    color: rgb(12, 12, 12);
+    background-color: rgb(212, 39, 39);
+} */
+.btn{
+    background-color: white;
+    color: rgb(231, 10, 10);
+    padding: 1px;
+    margin-left: 10px;
+}

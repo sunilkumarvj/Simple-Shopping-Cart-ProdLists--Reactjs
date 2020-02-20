@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.905bdffc.chunk.css",
-    "main.js": "/my-app/static/js/main.8ca9e67f.chunk.js",
-    "main.js.map": "/my-app/static/js/main.8ca9e67f.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.56c001b7.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.56c001b7.js.map",
-    "static/js/2.d5a6855d.chunk.js": "/my-app/static/js/2.d5a6855d.chunk.js",
-    "static/js/2.d5a6855d.chunk.js.map": "/my-app/static/js/2.d5a6855d.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.ed94c389168cb1cc47194cb446a5fa41.js": "/my-app/precache-manifest.ed94c389168cb1cc47194cb446a5fa41.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.905bdffc.chunk.css.map": "/my-app/static/css/main.905bdffc.chunk.css.map",
-    "static/js/2.d5a6855d.chunk.js.LICENSE": "/my-app/static/js/2.d5a6855d.chunk.js.LICENSE"
+    "main.css": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/css/main.905bdffc.chunk.css",
+    "main.js": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/main.096ad55b.chunk.js",
+    "main.js.map": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/main.096ad55b.chunk.js.map",
+    "runtime-main.js": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/runtime-main.9651b8d7.js",
+    "runtime-main.js.map": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/runtime-main.9651b8d7.js.map",
+    "static/js/2.d5a6855d.chunk.js": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/2.d5a6855d.chunk.js",
+    "static/js/2.d5a6855d.chunk.js.map": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/2.d5a6855d.chunk.js.map",
+    "index.html": "/Simple-Shopping-Cart-ProdLists--Reactjs/index.html",
+    "precache-manifest.af753f407cfc8bdee9818726ebd91b08.js": "/Simple-Shopping-Cart-ProdLists--Reactjs/precache-manifest.af753f407cfc8bdee9818726ebd91b08.js",
+    "service-worker.js": "/Simple-Shopping-Cart-ProdLists--Reactjs/service-worker.js",
+    "static/css/main.905bdffc.chunk.css.map": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/css/main.905bdffc.chunk.css.map",
+    "static/js/2.d5a6855d.chunk.js.LICENSE": "/Simple-Shopping-Cart-ProdLists--Reactjs/static/js/2.d5a6855d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.56c001b7.js",
+    "static/js/runtime-main.9651b8d7.js",
     "static/js/2.d5a6855d.chunk.js",
     "static/css/main.905bdffc.chunk.css",
-    "static/js/main.8ca9e67f.chunk.js"
+    "static/js/main.096ad55b.chunk.js"
   ]
 }

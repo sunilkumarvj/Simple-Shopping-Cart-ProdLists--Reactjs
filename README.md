@@ -1,4 +1,4 @@
-## Demo of the React app - Product List: https://sunilkumarvj.github.io/Simple-Shopping-Cart-ProdLists--Reactjs/
+## Demo of the React app-Product List: https://sunilkumarvj.github.io/Simple-Shopping-Cart-ProdLists--Reactjs/
 
 ## Available Components
 

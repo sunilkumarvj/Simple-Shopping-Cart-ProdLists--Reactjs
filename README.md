@@ -1,4 +1,4 @@
-Simple-Shopping-Cart-ProdLists was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo of the React app - Product List: https://sunilkumarvj.github.io/Simple-Shopping-Cart-ProdLists--Reactjs/
 
 ## Available Components
 
